@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-ricardohoycode/ricardohoycode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![efecto-img](https://user-images.githubusercontent.com/94667856/200718469-c0e13a46-1e89-43e4-8d7e-7bc9175f79b4.gif)
